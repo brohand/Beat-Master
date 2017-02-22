@@ -1,0 +1,19 @@
+Welcome to Master Beat, the ultimate in off-sync rhythm games.
+Will you surpass the Beat Master? I sure hope so fam.
+
+HOW TO PLAY:
+Press the face and trigger buttons in time to the falling notes (when they hit the middle of the hollow square).
+Don't miss too much, or you'll game over.
+
+CONTROLS:
+Leftmost notes: L Button
+Second Leftmost notes: A Button
+Second RIghtmost notes: B Button
+Rightmost notes: R Button
+
+Das it man
+
+
+****WARNING*****
+There might be a really long pause after the "last" note, but don't worry, there is one more note. Hit that (or tank it)
+and you should reach the win screen. This isn't a glitch, but the beatmap may or may not be finished at the time of submission.
